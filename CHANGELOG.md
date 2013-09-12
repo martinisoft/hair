@@ -1,0 +1,62 @@
+## 2.5
+
+### Photo
+
+![2.5](images/2_5_hair.jpg)
+
+### Enhancements
+
+* Shaved down sides of head and have a well defined mohawk!
+* Narrowed haircut for a more defined mohawk
+
+## 2.0
+
+### Photo
+
+![2.0](images/2_0_hair.jpg)
+
+### Enhancements
+
+* New semi-mohawk look! Can wear this up as a faux-hawk or down as a flat top
+* Still red on the sides, but quickly growing out to show a nice contrast
+
+## 1.5
+
+### Photo
+
+![1.5](images/1_5_hair.jpg)
+
+### Enhancements
+
+* Much brighter color! Had to bleach to acehieve a higher color tone
+
+### Deprecations
+
+* Darker red hair dye underneath was discontinued by the manufacturer, hence
+  the bleaching.
+
+## 1.0
+
+### Photo
+
+![1.0](images/1_0_hair.jpg)
+
+### Enhancements
+
+* Figured out a double-dye technique. Deep red under, bright red on top.
+* Now using [Special Effects](http://www.specialeffectsusa.com/)
+
+### Bug Fixes
+
+* Discontinued bleaching to prevent possible lightening and fading of the color.
+  Previously, the red stain used would wash out easily.
+
+## 1.0 Beta
+
+### Photo
+
+![1.0 Beta](images/1_0_beta_hair.jpg)
+
+### Release Notes
+
+* Bleached hair for brighter color!
