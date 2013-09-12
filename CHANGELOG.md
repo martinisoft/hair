@@ -6,8 +6,12 @@
 
 ### Enhancements
 
-* Shaved down sides of head and have a well defined mohawk!
+* Shaved down sides of head
 * Narrowed haircut for a more defined mohawk
+
+### Bug Fixes
+
+* Shortened hair. When it's too long it required more hair gel to maintain.
 
 ## 2.0
 
