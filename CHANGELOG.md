@@ -1,3 +1,18 @@
+## 3.0.0 / 2013-09-29
+
+### Photo
+
+![3.0](images/3_0_hair.jpg)
+
+### Enhancements
+
+* Dyed sides of hair deep red for more contrast
+* Blended Orange and Red for a brighter mohawk
+
+### Bug Fixes
+
+* Shortened mohawk length again to prevent hair from covering eyes
+
 ## 2.5
 
 ### Photo
