@@ -13,7 +13,7 @@
 
 * Shortened mohawk length again to prevent hair from covering eyes
 
-## 2.5
+## 2.5.0 / 2013-08-17
 
 ### Photo
 
@@ -28,7 +28,7 @@
 
 * Shortened hair. When it's too long it required more hair gel to maintain.
 
-## 2.0
+## 2.0.0 / 2013-08-03
 
 ### Photo
 
@@ -39,7 +39,7 @@
 * New semi-mohawk look! Can wear this up as a faux-hawk or down as a flat top
 * Still red on the sides, but quickly growing out to show a nice contrast
 
-## 1.5
+## 1.5.0 / 2013-06-07
 
 ### Photo
 
@@ -54,7 +54,7 @@
 * Darker red hair dye underneath was discontinued by the manufacturer, hence
   the bleaching.
 
-## 1.0
+## 1.0.0 / 2011-04-09
 
 ### Photo
 
@@ -70,7 +70,7 @@
 * Discontinued bleaching to prevent possible lightening and fading of the color.
   Previously, the red stain used would wash out easily.
 
-## 1.0 Beta
+## 1.0.Beta / 2011-04-02
 
 ### Photo
 
@@ -78,4 +78,5 @@
 
 ### Release Notes
 
-* Bleached hair for brighter color!
+* Initial release
+* Bleached hair for a bright red color!
