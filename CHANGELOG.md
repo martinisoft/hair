@@ -1,3 +1,13 @@
+## 4.0.0-beta / 2013-12-22
+
+### Photo
+
+![4.0 Beta](images/4_0_hair.jpg)
+
+### Experimental
+
+* Beta testing Pravanna Chroma-Silk Vivids Blue dye.
+
 ## 3.5.0 / 2013-11-08
 
 ### Photo
