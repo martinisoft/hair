@@ -1,3 +1,13 @@
+## 3.5.0 / 2013-11-08
+
+### Photo
+
+![3.5](images/3_5_hair.jpg)
+
+### Enhancements
+
+* Winterized by growing out the Mohawk
+
 ## 3.0.0 / 2013-09-29
 
 ### Photo
