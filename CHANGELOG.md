@@ -1,3 +1,13 @@
+## 4.1.1 / 2014-02-11
+
+### Photo
+
+![4.1.1](images/4_1_1_hair.jpg)
+
+### Bug Fixes
+
+* Re-applied the Pravanna Chroma-Silk Vivids Red dye
+
 ## 4.1.0 / 2014-02-01
 
 ### Photo
