@@ -1,3 +1,18 @@
+## 5.0.0 / 2014-06-14
+
+### Photo
+
+![5.0](images/5_0_hair.jpg)
+
+### Bug Fixes
+
+* Went back to [Special Effects](http://www.specialeffectsusa.com/) dyes due
+  to issues with Pravanna and Sparks fading to silver within 3 weeks.
+
+### Experimental
+
+* [Bi Pride Flag!](http://en.wikipedia.org/wiki/Bisexual_pride_flag) Three colors against short black hair!
+
 ## 4.2.1 / 2014-05-05
 
 ### Photo
