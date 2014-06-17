@@ -1,3 +1,13 @@
+## 4.1.0 / 2014-02-01
+
+### Photo
+
+![4.1](images/4_1_hair.jpg)
+
+### Bug Fixes
+
+* Changing back to Red did not take very well
+
 ## 4.0.0-beta / 2013-12-22
 
 ### Photo
