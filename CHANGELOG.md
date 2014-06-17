@@ -1,3 +1,13 @@
+## 4.2.1 / 2014-05-05
+
+### Photo
+
+![4.2.1](images/4_2_1_hair.jpg)
+
+### Experimental
+
+* Did not bleach this time around to let the roots show more of the red
+
 ## 4.2.0 / 2014-03-17
 
 ### Photo
