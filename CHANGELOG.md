@@ -1,3 +1,14 @@
+## 4.2.0 / 2014-03-17
+
+### Photo
+
+![4.2.0](images/4_2_hair.jpg)
+
+### Experimental
+
+* New style with red and black border to show off the red color more
+* Trying Sparks Brand Red Hair Dye
+
 ## 4.1.1 / 2014-02-11
 
 ### Photo
