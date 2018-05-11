@@ -1,3 +1,14 @@
+## 5.1.0 / 2018-04-14
+
+### Photo
+
+![5.1](images/5_1_hair.jpg)
+
+### Experimental
+
+* Dyed rest of the hair black to cover up some of that gray and white
+* Only did the front to look like my Sunset Overdrive character
+
 ## 5.0.0 / 2014-06-14
 
 ### Photo
